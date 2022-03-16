@@ -17,3 +17,4 @@ yarn-error.log
 /wave/vendor/
 /public/wave/docs
 .env
+.env
